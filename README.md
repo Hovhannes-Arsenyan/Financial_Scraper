@@ -1,2 +1,1 @@
-# Financial_Scraper
- 
+Version: 1.00.000 07/06/2022
